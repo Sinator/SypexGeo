@@ -1,6 +1,6 @@
 {
-    "name": "yamilovs/sypex-geo",
-    "description": "A new generation of Sypex Geo library",
+    "name": "sinator/sypex-geo",
+    "description": "A new generation of Sypex Geo library (with php 8), fork from: yamilovs/sypex-geo",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,6 +16,10 @@
         {
             "name": "Yamilov Stepan",
             "email": "yamilovs@gmail.com"
+        },
+        {
+            "name": "Artem Smagin",
+            "email": "sinator5000@gmail.com"
         }
     ],
     "autoload": {
@@ -29,7 +33,7 @@
         }
     },
     "require": {
-        "php": "^7.2"
+        "php": ">=7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.3",

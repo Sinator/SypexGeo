@@ -1,13 +1,14 @@
 # SypexGeo
 
-A new generation of [Sypex Geo library](https://sypexgeo.net/) 
+A new generation of [Sypex Geo library](https://sypexgeo.net/)  with php 8.<br>
+Forked from [yamilovs/SypexGeo](https://github.com/yamilovs/SypexGeo)
 
 # Installation 
 
 You can install it through Composer:
 
 ```bash
-$ composer require yamilovs/sypex-geo
+$ composer require sinator/sypex-geo
 ```
 
 # Basic Usage
